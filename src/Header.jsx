@@ -13,7 +13,8 @@ const Header = () => {
                     <li><Link to="/">Employees</Link></li>
                     <li><Link to="/about">About</Link></li>
                     <li><Link to="/add">Add Employee</Link></li>
-                    <li><Link to="http://localhost:3001/employees">Backend</Link></li>
+                    <li><a href="http://localhost:3000/employees" target="_blank" rel="noopener noreferrer">Backend Info</a></li>
+
                 </ul>
             </nav>
         </header>

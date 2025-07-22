@@ -4,7 +4,7 @@ import './styles/Footer.css';
 const Footer = () => {
     return (
         <footer className="app-footer">
-            <p>© {new Date().getFullYear()} HR App | Created by Bayezid Rahman Tanmay</p>
+            <p>© {new Date().getFullYear()} HR App | Copyright by Mahfuz</p>
         </footer>
     );
 };

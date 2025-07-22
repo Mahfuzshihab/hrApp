@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 50px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.card {
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+
+  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+  padding: 30px;
+  width: 320px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  backdrop-filter: blur(4px);
+  border: none;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.card .name {
+  text-align: center;
+  font-size: 26px;
+  color: #003366;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.card .card-para {
+  margin-top: 15px;
+}
+
+.card .card-para p {
+  font-size: 16px;
+  color: #333;
+}
+
+.card p strong {
+  color: #002244;
+}
+
+.details-btn,
+.edit-btn,
+.save-btn,
+.cancel-btn {
+  display: inline-block;
+  margin: 12px 6px 0 0;
+  padding: 10px 20px;
+  font-size: 15px;
+  border-radius: 5px;
+  border: none;
+  background-color: #0066cc;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.details-btn:hover,
+.edit-btn:hover,
+.save-btn:hover,
+.cancel-btn:hover {
+  background-color: #004999;
+  cursor: pointer;
+}
+
+.edit-btn {
+  background-color: #000000;
+}
+
+.edit-btn:hover {
+  background-color: #e68900;
+}
+
+.save-btn {
+  background-color: #4caf50;
+}
+
+.save-btn:hover {
+  background-color: #3e8e41;
+}
+
+.cancel-btn {
+  background-color: #f44336;
+}
+
+.cancel-btn:hover {
+  background-color: #d32f2f;
+}
+
+.card p:last-child {
+  font-weight: bold;
+  margin-top: 12px;
+}
+
+

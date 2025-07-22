@@ -4,14 +4,19 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #311847;
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
   padding: 25px 70px;
   flex-wrap: wrap;
 }
 
 .logo {
   color: white;
-  font-family: DM Serif Text;
+
   font-size: 32px;
 }
 
@@ -31,7 +36,16 @@
 
 .nav ul li a:hover {
   cursor: pointer;
-  background-color: white;
-  color: #311847;
+
+
+
+  /* From https://css.glass */
+background: rgba(99, 174, 220, 0);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(2.8px);
+-webkit-backdrop-filter: blur(2.8px);
+border: 1px solid rgba(99, 174, 220, 0.3);
+
   padding: 10px 20px;
 }
