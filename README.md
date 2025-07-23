@@ -20,7 +20,7 @@ HR App is a React based web tool for managing employee information with features
 ---
 
 ## Deployment  
-[Frontend Url](https://hr-app-git-main-mahfuz-shihabs-projects.vercel.app)   &
+[Frontend Url](https://hr-app-topaz.vercel.app/)   &
 [Backend Url](https://hr-app-backend-ebon.vercel.app/api/employees.js)
 
 
