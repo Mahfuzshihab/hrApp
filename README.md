@@ -1,7 +1,7 @@
 # HR App
 
 ## Project Description  
-HR App is a React-based tool for managing employee information with features to list, add, and edit employees. It connects to a `json-server` backend to simulate a real database, uses React hooks for state and effects, and offers a clean, user-friendly interface.
+HR App is a React based web tool for managing employee information with features to list, add, and edit employees. It connects to a `json-server` backend to simulate a real database, uses React hooks for state and effects, and offers a clean, user-friendly interface.
 
 ---
 
@@ -20,28 +20,17 @@ HR App is a React-based tool for managing employee information with features to 
 ---
 
 ## Deployment  
-Frontend live URL:   
-Backend API URL: 
+[Frontend Url](https://hr-app-git-main-mahfuz-shihabs-projects.vercel.app)
+[Backend Url](https://hr-app-backend-ebon.vercel.app/api/employees.js)
 
----
-
-## How to Run Locally
-
-1. Clone the frontend repo, install dependencies, and run `npm start`.  
-2. Clone the backend repo, install dependencies, and run `npm run server`.  
-3. Access frontend at `http://localhost:3000` and backend at `http://localhost:3001/employees`.
 
 ---
 
 ## Personal Reflection  
-This project improved my React skills, especially state management and component design. Integrating a backend with `json-server` deepened my understanding of asynchronous data and server communication. Deploying both frontend and backend taught me valuable lessons in real-world app setup and environment configuration.
+This project improved my React skills, especially state management and component design. Integrating a backend with `json-server` deepened my understanding of asynchronous data and server communication. Deploying both frontend and backend taught me valuable lessons in real-world app setup and environment configuration. i started doing this very lately, in the end of summer vacation. Certainly i enjoyed the hr app journey.
 
 ---
 
 ## Technologies Used  
-React, React Hooks, Axios, json-server, CSS Modules/styled-components, Vercel, Render, Git & GitHub.
+React, React Hooks, Axios, json-server, CSS Modules, Vercel, Render, Git & GitHub.
 
----
-
-## Contact  
-For questions or feedback, reach out at: [your email]
