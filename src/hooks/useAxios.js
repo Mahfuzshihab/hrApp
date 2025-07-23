@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'https://hr-app-backend-ebon.vercel.app/api/employees.js'; 
+const BASE_URL = 'http://localhost:3001'; 
 const useAxios = () => {
   const get = async (endpoint) => {
     try {
