@@ -38,5 +38,5 @@ This project improved my React skills, especially state management and component
 ---
 
 ## Technologies Used  
-React, React Hooks, Axios, json-server, CSS Modules, Vercel, Render, Git & GitHub.
+React, React Hooks, Axios, json-server, CSS Modules, Vercel, Git & GitHub.
 
