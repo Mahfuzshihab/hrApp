@@ -1,7 +1,7 @@
 # HR App
 
 ## Project Description  
-This hr app is based on react that manage employee information with adding editing removing. It connects to a local json server backend to simulate a real database. It offers a clean and user friendly interface.
+This hr app is based on react that manages employee information with adding, editing and removing list. It connects to a local json server aka backend to simulate a real database. It offers a clean and user friendly interface.
 ---
 
 ## Project Steps and Features
@@ -34,7 +34,7 @@ This hr app is based on react that manage employee information with adding editi
 ---
 
 ## Personal Reflection  
-Every project teaches something . This project helped me to improve my React skills, especially state management, hooks and axios. Backend with json-server and deploying both frontend and backend taught me real-world app setup and environment configuration. I started doing this very lately, in the end of summer vacation. Certainly I enjoyed the hr app journey.
+Every project offers a learning opportunity. This project helped me to improve my React skills, especially state management, hooks and axios. Backend with json-server and deploying both frontend and backend taught me real-world app setup and environment configuration. I started doing this very lately, in the end of summer vacation. Certainly I enjoyed the hr app journey.
 
 ---
 
