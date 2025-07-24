@@ -1,8 +1,7 @@
 # HR App
 
 ## Project Description  
-HR App is a React based web tool for managing employee information with features to list, add, and edit employees. It connects to a `json-server` backend to simulate a real database, uses React hooks for state and effects, and offers a clean, user-friendly interface.
-
+This hr app is based on react that manage employee information with adding editing removing. It connects to a local json server backend to simulate a real database. It offers a clean and user friendly interface.
 ---
 
 ## Project Steps and Features
