@@ -6,15 +6,17 @@ This hr app is based on react that manage employee information with adding editi
 
 ## Project Steps and Features
 
-**Step 1:** Created the React app with core components — Header, Footer, and PersonCard — and initialized Git. Styled components and pushed the initial setup.
+**Step 1:** Initialized git, created Core components like Header, Footer, EmployeeCard etc, styled components and pushed to the github.
 
-**Step 3:** Built pages for About, PersonList, and AddEmployee, added navigation, and managed form state to add employees. Lifted employee state to App and added logic for employee service years and emoji display.
+**Step 2:** Created array of employee object. Added their details, Date object, Conditional remainders.
 
-**Step 4:** Set up a `json-server` backend with `db.json` and connected the frontend via Axios to fetch and update employee data, ensuring persistence.
+**Step 3:** Created pages for PersonList, About and AddEmployee, added navigation, and managed form state to add employees.
 
-**Step 5:** Added edit functionality inside PersonCard with fields like salary and location editable. Implemented PATCH requests to update backend and updated local state without full refetch.
+**Step 4:** setting up a json-server backend with db.json that connected with the frontend via Axios to fetch and update data.
 
-**Step 6:** Refactored code and components, created a custom `useAxios` hook, and applied consistent styling. Deployed backend on Render and frontend on Vercel with live API URL updates.
+**Step 5:** Inside PersonCard added edit functionality. Implemented Patch requests to update backend and local.
+
+**Step 6:** Created a custom useAxios hook, and applied styling. Deployed backend and frontend on Vercel.
 
 ---
 
@@ -32,7 +34,7 @@ This hr app is based on react that manage employee information with adding editi
 ---
 
 ## Personal Reflection  
-This project improved my React skills, especially state management and component design. Integrating a backend with `json-server` deepened my understanding of asynchronous data and server communication. Deploying both frontend and backend taught me valuable lessons in real-world app setup and environment configuration. i started doing this very lately, in the end of summer vacation. Certainly i enjoyed the hr app journey.
+Every project teaches something . This project helped me to improve my React skills, especially state management, hooks and axios. Backend with json-server and deploying both frontend and backend taught me real-world app setup and environment configuration. I started doing this very lately, in the end of summer vacation. Certainly I enjoyed the hr app journey.
 
 ---
 
