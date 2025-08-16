@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3001'; 
+const BASE_URL = 'https://hrapp-backend-2gl0.onrender.com'; 
 const useAxios = () => {
   const get = async (endpoint) => {
     try {
