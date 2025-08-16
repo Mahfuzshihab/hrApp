@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from "axios";
 
 const BASE_URL = 'https://hrapp-backend-2gl0.onrender.com'; 
 const useAxios = () => {
