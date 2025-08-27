@@ -39,5 +39,5 @@ Every project offers a learning opportunity. This project helped me to improve m
 ---
 
 ## Technologies Used  
-React, React Hooks, Axios, json-server, CSS Modules, Vercel, Git & GitHub.
+React, React Hooks, Axios, json-server, CSS Modules, Vercel, AWS, Git & GitHub.
 
